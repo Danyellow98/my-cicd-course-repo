@@ -12,3 +12,7 @@ This introduces GitHub, commits, branches, pull requests, and GitHub Actions.
 ## Branch Practice
 
 This change was made on a seperate branch using GitHub Desktop
+
+## Week 2
+
+This week introduces a simple GitHub Actions workflow.
